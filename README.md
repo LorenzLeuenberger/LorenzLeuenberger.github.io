@@ -1,3 +1,2 @@
----
-title: "Personal github page of Lorenz Leuenberger"
----
+# This is the personal github page of Lorenz Leuenberger
+
