@@ -1,3 +1,3 @@
-
-title: Lorenz Leuenberger's website
-description: This is my personal website
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
